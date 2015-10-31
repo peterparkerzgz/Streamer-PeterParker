@@ -7,7 +7,7 @@ var express = require("express"),
 
 // MOVIES
 if (argv.m) {	
-	var url = 'http://bit.ly/1AVtoIL';
+	var url = 'http://pastebin.com/r2PqfuRW';
 	
 	request(url, function(error, response, html) {
 	
@@ -23,7 +23,7 @@ if (argv.m) {
 
 // EPISODES
 if (argv.e) {	
-	var url = 'http://bit.ly/1wgYAgV';
+	var url = 'http://pastebin.com/r2PqfuRW';
 	
 	request(url, function(error, response, html) {
 	
