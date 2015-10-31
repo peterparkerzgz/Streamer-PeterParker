@@ -1,14 +1,14 @@
 {
-  "name" : "Series-ly-Streamer-Spanish",
-  "author": "rbaggio",
+  "name" : "Stream-PeterParker",
+  "author": "rromeo",
   "icon": "",
   "homepage": "",
   "version" : "0.0.1",
-  "description"  : "Squire Streamer for Series.ly Spanish",
-  "homepage": "https://github.com/robertobaggio409/SeriesLY-Squire-Stream",
+  "description"  : "Squire Streamer of Peter Parker Spanish",
+  "homepage": "https://github.com/peterparkerzgz/Streamer-PeterParker",
   "repository": {
       "type": "git",
-      "url": "https://github.com/robertobaggio409/SeriesLY-Squire-Stream"
+      "url": "https://github.com/peterparkerzgz/Streamer-PeterParker"
   },
   "license": "MIT",
   "keywords": ["squire", "streamer", "squire streamer"],
